@@ -1,0 +1,25 @@
+*{
+    font-family: sans-serif;
+}
+
+h1{
+    color: teal;
+}
+
+h2 span{
+    background-color: teal;
+    color: white;
+    text-transform: uppercase;
+}
+
+#contact{
+    font-weight: bold;
+}
+
+ em{
+    color: teal;
+}
+
+span{
+    font-weight: bold;
+}

@@ -1,0 +1,9 @@
+.display
+{
+    display: inherit;
+}
+
+.nodisplay
+{
+    display: none;
+}
