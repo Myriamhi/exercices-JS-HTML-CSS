@@ -1,0 +1,43 @@
+.divBleu{
+    background-color: rgb(55, 160, 230);
+    height: 600px;
+    width: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+
+}.divBlanc{
+    background-color: white;
+    height: 100px;
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.divRouge{
+    background-color: tomato;
+    height: 60px;
+    width: 120px;
+}
+.divOrange{
+    background-color: orange;
+    height: 200px;
+    width: 250px;
+}
+
+.divVerte{
+    background-color: rgb(68, 202, 41);
+    height: 200px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.divRose{
+    background-color: rgb(255, 71, 184);
+    height: 60px;
+    width: 120px; 
+}

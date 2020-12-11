@@ -13,7 +13,8 @@ function Supprime(idP) {
     BodyParent.removeChild(pRemove)
 }
 
-let BodyParent = document.getElementById("monbody")
+let BodyParent = document.getElementById("mon_titre")
 let h2Nouveau = document.createElement("h2")
 h2Nouveau.innerText="Titre de remplacement"
 BodyParent.replaceChild(h2Nouveau,BodyParent.firstChild)
+185.55.15 allopneu

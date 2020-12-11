@@ -1,0 +1,37 @@
+.container{
+    background-color: rgb(16, 196, 241);
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+.divRose{
+    background-color: hotpink;
+    height: 100px;
+    width: 600px;
+    display:flex ;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.divVerte{
+    background-color:rgb(71, 221, 66);
+    height: 100px;
+    width: 600px;
+}
+
+.divJaune{
+    background-color: yellow;
+    height: 70px;
+    width: 90px;
+    align-self: ;
+}
+.divRouge{
+    background-color: crimson;
+    height: 70px;
+    width: 90px;
+}
+
+
