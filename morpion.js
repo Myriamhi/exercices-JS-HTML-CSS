@@ -1,11 +1,10 @@
-let colorCell="rose"
+function jouer(idCell){
+let Cellule= document.getElementById(idCell)
+let CouleurCell="blue"
+if(Cellule.classList.contains("")||Cellule.classList.contains("blue")){
+    Cellule.classList.add("rose")
+}
+else
+Cellule.classList.add("blue")
 
-function jouer(idcell){
-     Cellule = document.getElementById(idcell)
-     Cellule.classList.add("blue")
-     if(colorCell=="blue"){
-         Cellule=document.getElementById(id)
-         Cellule.classList.add("rose")
-         colorCell="rose"
-     }
 }
