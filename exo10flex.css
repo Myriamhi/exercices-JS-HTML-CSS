@@ -1,0 +1,47 @@
+.container{
+    width: 600px;
+    height: 600px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: 3px, solid, black;
+  
+}
+
+.footer{
+    width: 600px;
+    height: 100px;
+    background-color: rgb(68, 68, 170);
+}
+.header{
+    width: 600px;
+    height: 100px;
+    background-color: rgb(68, 68, 170);
+}
+
+h1{
+    text-align: center;
+}
+
+.container2{
+    width: 600px;
+    height: 300px;
+    display: flex;
+    
+    
+}
+.menu{
+    width: 100px;
+    height: 400px;
+    background-color: rgb(158, 121, 173);
+}
+
+.content{
+    background-color: rgb(224, 124, 77); 
+}
+
+.ad{
+    width: 100px;
+    height: 400px;
+    background-color: rgb(158, 121, 173);
+}
